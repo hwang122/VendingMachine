@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1367727292 source:c:\users\kris\documents\github\softwaredesign\vendingmachine\src\datastore.cpp
+	"..\include\datastore.h"
+
+1367722132 c:\users\kris\documents\github\softwaredesign\vendingmachine\include\datastore.h
+
+1367727555 source:c:\users\kris\documents\github\softwaredesign\vendingmachine\src\mdaefsm.cpp
+	"..\include\mdaefsm.h"
+
+1367731554 c:\users\kris\documents\github\softwaredesign\vendingmachine\include\mdaefsm.h
+	"..\include\state.h"
+	"..\include\op.h"
+
+1367726985 c:\users\kris\documents\github\softwaredesign\vendingmachine\include\state.h
+	"..\include\op.h"
+
+1367727634 c:\users\kris\documents\github\softwaredesign\vendingmachine\include\op.h
+	"..\include\datastore.h"
+	"..\include\drink.h"
+	"..\include\additive.h"
+	"..\include\abstractfactory.h"
+
+1367727761 source:c:\users\kris\documents\github\softwaredesign\vendingmachine\src\op.cpp
+	"..\include\op.h"
+	<iostream>
+
+1367728359 source:c:\users\kris\documents\github\softwaredesign\vendingmachine\src\state.cpp
+	"..\include\state.h"
+	"..\include\mdaefsm.h"
+
+1367728547 source:c:\users\kris\documents\github\softwaredesign\vendingmachine\src\vendingmachine1.cpp
+	"..\include\vendingmachine1.h"
+
+1367727081 c:\users\kris\documents\github\softwaredesign\vendingmachine\include\vendingmachine1.h
+	"..\include\mdaefsm.h"
+	"..\include\datastore.h"
+	"..\include\state.h"
+
+1367732846 source:c:\users\kris\documents\github\softwaredesign\vendingmachine\src\vendingmachine2.cpp
+	"..\include\vendingmachine2.h"
+
+1367732874 c:\users\kris\documents\github\softwaredesign\vendingmachine\include\vendingmachine2.h
+	"..\include\mdaefsm.h"
+	"..\include\datastore.h"
+	"..\include\state.h"
+
+1367629275 source:c:\users\kris\documents\github\softwaredesign\vendingmachine\src\abstracfactory.cpp
+	"..\include\abstracfactory.h"
+
+1367600707 c:\users\kris\documents\github\softwaredesign\vendingmachine\include\abstracfactory.h
+
+1367722256 c:\users\kris\documents\github\softwaredesign\vendingmachine\include\drink.h
+
+1367721954 c:\users\kris\documents\github\softwaredesign\vendingmachine\include\additive.h
+
+1367727102 c:\users\kris\documents\github\softwaredesign\vendingmachine\include\abstractfactory.h
+	"..\include\drink.h"
+	"..\include\additive.h"
+
+1367727227 source:c:\users\kris\documents\github\softwaredesign\vendingmachine\src\abstractfactory.cpp
+	"..\include\abstractfactory.h"
+
+1367727265 source:c:\users\kris\documents\github\softwaredesign\vendingmachine\src\additive.cpp
+	<iostream>
+	"..\include\additive.h"
+
+1367727336 source:c:\users\kris\documents\github\softwaredesign\vendingmachine\src\drink.cpp
+	<iostream>
+	"..\include\drink.h"
+
+1367709674 source:c:\users\kris\documents\github\softwaredesign\vendingmachine\src\main.cpp
+	<iostream>
+	<conio.h>
+	"..\include\vendingmachine1.h"
+	"..\include\vendingmachine2.h"
+
+1367732820 source:c:\users\kris\documents\github\softwaredesign\vendingmachine\src\main_vm2.cpp
+	<iostream>
+	<conio.h>
+	"..\include\vendingmachine2.h"
+

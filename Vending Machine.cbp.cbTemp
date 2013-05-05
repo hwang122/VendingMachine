@@ -46,7 +46,6 @@
 		<Unit filename="src\datastore.cpp" />
 		<Unit filename="src\drink.cpp" />
 		<Unit filename="src\main_vm1.cpp" />
-		<Unit filename="src\main_vm2.cpp" />
 		<Unit filename="src\mdaefsm.cpp" />
 		<Unit filename="src\op.cpp" />
 		<Unit filename="src\state.cpp" />
